@@ -1,8 +1,56 @@
 {
-  "LSAT_PT_1": [
+  "LSAT_PT_01": [
     "RC",
     "AR",
     "LR1",
+    "LR2"
+  ],
+  "LSAT_PT_02": [
+    "RC",
+    "LR1",
+    "AR",
+    "LR2"
+  ],
+  "LSAT_PT_03": [
+    "AR",
+    "LR1",
+    "RC",
+    "LR2"
+  ],
+  "LSAT_PT_04": [
+    "LR1",
+    "RC",
+    "AR",
+    "LR2"
+  ],
+  "LSAT_PT_05": [
+    "LR1",
+    "AR",
+    "LR2",
+    "RC"
+  ],
+  "LSAT_PT_06": [
+    "RC",
+    "LR1",
+    "LR2",
+    "AR"
+  ],
+  "LSAT_PT_07": [
+    "LR1",
+    "AR",
+    "RC",
+    "LR2"
+  ], 
+  "LSAT_PT_08": [
+    "LR1",
+    "AR",
+    "RC",
+    "LR2"
+  ],
+  "LSAT_PT_09": [
+    "RC",
+    "LR1",
+    "AR",
     "LR2"
   ],
   "LSAT_PT_10": [
@@ -65,12 +113,6 @@
     "RC",
     "LR2"
   ],
-  "LSAT_PT_2": [
-    "RC",
-    "LR1",
-    "AR",
-    "LR2"
-  ],
   "LSAT_PT_20": [
     "LR1",
     "RC",
@@ -129,12 +171,6 @@
     "LR1",
     "RC",
     "AR",
-    "LR2"
-  ],
-  "LSAT_PT_3": [
-    "AR",
-    "LR1",
-    "RC",
     "LR2"
   ],
   "LSAT_PT_30": [
@@ -197,12 +233,6 @@
     "RC",
     "LR2"
   ],
-  "LSAT_PT_4": [
-    "LR1",
-    "RC",
-    "AR",
-    "LR2"
-  ],
   "LSAT_PT_40": [
     "LR1",
     "AR",
@@ -262,12 +292,6 @@
     "LR1",
     "RC",
     "LR2"
-  ],
-  "LSAT_PT_5": [
-    "LR1",
-    "AR",
-    "LR2",
-    "RC"
   ],
   "LSAT_PT_50": [
     "RC",
@@ -329,12 +353,6 @@
     "LR2",
     "RC"
   ],
-  "LSAT_PT_6": [
-    "RC",
-    "LR1",
-    "LR2",
-    "AR"
-  ],
   "LSAT_PT_60": [
     "LR1",
     "AR",
@@ -377,105 +395,95 @@
     "AR",
     "LR2"
   ],
-
-/* "LSAT_PT_67": [
+  "LSAT_PT_67": [
+    "RC",
     "LR1",
-    "LR2",
-    "RC"
+    "AR",
+    "LR2"
   ],
   "LSAT_PT_68": [
+    "RC",
     "LR1",
     "LR2",
-    "RC"
+    "AR"
   ],
   "LSAT_PT_69": [
     "LR1",
+    "AR",
+    "RC",
+    "LR2"
+  ], 
+  "LSAT_PT_70": [
+    "LR1",
+    "RC",
+    "AR",
+    "LR2"
+  ],
+  "LSAT_PT_71": [
+    "LR1",
+    "AR",
     "LR2",
     "RC"
   ],
-  "LSAT_PT_7": [
+  "LSAT_PT_72": [
+    "RC",
+    "LR1",
+    "LR2",
+    "AR"
+  ],
+  "LSAT_PT_73": [
+    "RC",
+    "LR1",
+    "AR",
+    "LR2"
+  ],
+  "LSAT_PT_74": [
     "LR1",
     "AR",
     "RC",
     "LR2"
   ],
-  "LSAT_PT_70": [
-    "LR1",
-    "LR2",
-    "RC"
-  ],
-  "LSAT_PT_71": [
-    "LR1",
-    "LR2",
-    "RC"
-  ],
-  "LSAT_PT_72": [
-    "LR1",
-    "LR2",
-    "RC"
-  ],
-  "LSAT_PT_73": [
-    "LR1",
-    "LR2",
-    "RC"
-  ],
-  "LSAT_PT_74": [
-    "LR1",
-    "LR2",
-    "AR",
-    "RC"
-  ],
-*/
-
   "LSAT_PT_75": [
     "LR1",
     "RC",
     "LR2",
     "AR"
   ],
-
-  /*
   "LSAT_PT_76": [
+    "RC",
     "LR1",
     "AR",
-    "RC",
     "LR2"
   ],
   "LSAT_PT_77": [
+    "RC",
     "LR1",
     "AR",
-    "RC",
     "LR2"
   ],
   "LSAT_PT_78": [
     "LR1",
-    "LR1",
-    "LR1",
-    "LR1"
+    "AR",
+    "LR2",
+    "RC"
   ],
   "LSAT_PT_79": [
     "LR1",
-    "LR1",
-    "LR1",
-    "LR1"
-  ],
-  "LSAT_PT_8": [
-    "LR1",
-    "AR",
     "RC",
+    "AR",
     "LR2"
   ],
   "LSAT_PT_80": [
     "LR1",
-    "LR1",
-    "LR1",
-    "LR1"
+    "RC",
+    "AR",
+    "LR2"
   ],
   "LSAT_PT_81": [
+    "RC",
     "LR1",
-    "LR1",
-    "LR1",
-    "LR1"
+    "LR2",
+    "AR"
   ],
   "LSAT_PT_82": [
     "LR1",
@@ -485,21 +493,21 @@
   ],
   "LSAT_PT_83": [
     "LR1",
-    "AR",
     "RC",
-    "LR2"
+    "LR2",
+    "AR"
   ],
   "LSAT_PT_84": [
+    "RC",
     "LR1",
-    "LR1",
-    "LR1",
-    "LR1"
+    "LR2",
+    "AR"
   ],
   "LSAT_PT_85": [
-    "LR1",
-    "AR",
     "RC",
-    "LR2"
+    "LR1",
+    "LR2",
+    "AR"
   ],
   "LSAT_PT_86": [
     "LR1",
@@ -508,32 +516,23 @@
     "LR2"
   ],
   "LSAT_PT_87": [
+    "RC",
     "LR1",
-    "LR1",
-    "LR1",
-    "LR1"
+    "LR2",
+    "AR"
   ],
   "LSAT_PT_88": [
-    "LR1",
     "AR",
+    "LR1",
     "RC",
     "LR2"
   ],
   "LSAT_PT_89": [
-    "LR1",
     "AR",
+    "LR1",
     "RC",
     "LR2"
   ],
-  "LSAT_PT_9": [
-    "RC",
-    "LR1",
-    "AR",
-    "LR2"
-  ],
-*/
-
-
   "LSAT_PT_90": [
     "RC",
     "LR1",
